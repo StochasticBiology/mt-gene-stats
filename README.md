@@ -1,5 +1,15 @@
 # mt-gene-stats
 
+Code and manuscript for a review article 
+
+*Evolution and maintenance of mtDNA gene content across eukaryotes*, Shibani Veeraragavan (1), Maria Johansen (1), Iain G Johnston (1,2,*)
+
+1. Department of Mathematics, University of Bergen, Bergen, Norway
+2. Computational Biology Unit, University of Bergen, Bergen, Norway
+* correspondence to iain.johnston@uib.no
+
+Note: we are trialling a form of crowdsourced review for this article. Please comment here https://docs.google.com/document/d/1Z9wrvBV2hOSIFauIQ-dK_6lR33uOKVooR44jzotsKAY/edit?usp=sharing if you'd like to provide feedback of if there is aligned information you would like to share.
+
 Summary statistics of mtDNA gene loss
 -----
 `mt-stats.csv` contains output from the pipeline here https://github.com/StochasticBiology/odna-loss on protein-coding mtDNA gene complements across eukaryotes.
