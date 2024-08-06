@@ -8,7 +8,9 @@ Code and manuscript for a review article
 2. Computational Biology Unit, University of Bergen, Bergen, Norway
 * correspondence to iain.johnston@uib.no
 
-Note: we are trialling a form of crowdsourced review for this article. Please comment here https://docs.google.com/document/d/1Z9wrvBV2hOSIFauIQ-dK_6lR33uOKVooR44jzotsKAY/edit?usp=sharing if you'd like to provide feedback of if there is aligned information you would like to share.
+Link here https://portlandpress.com/biochemj/article/481/15/1015/234775/Evolution-and-maintenance-of-mtDNA-gene-content
+
+Note: we are trialling a form of crowdsourced review for this article. Please comment here https://docs.google.com/document/d/1Z9wrvBV2hOSIFauIQ-dK_6lR33uOKVooR44jzotsKAY/edit?usp=sharing if you'd like to provide feedback, or if there is aligned information you would like to share.
 
 Summary statistics of mtDNA gene loss
 -----
